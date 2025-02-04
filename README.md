@@ -1,4 +1,5 @@
-# INDEED-SCRAPER
+#  INDEED-SCRAPER web scraping 
+
 **PROJECT DESCRIPTION:**
 The Indeed Scraper is a Python-based web scraper designed to extract job listings from the Indeed
 website. It gathers job details such as job title, company name, location, salary (if available), job
